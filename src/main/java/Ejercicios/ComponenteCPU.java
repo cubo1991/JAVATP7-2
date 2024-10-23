@@ -2,24 +2,24 @@ package Ejercicios;
 
 
 public class ComponenteCPU {
-    private string Marca;
-    private string Modelo;
+    private String Marca;
+    private String Modelo;
     private int cantidad;
     private double precio;
 
-    public string getMarca() {
+    public String getMarca() {
         return Marca;
     }
 
-    public void setMarca(string marca) {
+    public void setMarca(String marca) {
         Marca = marca;
     }
 
-    public string getModelo() {
+    public String getModelo() {
         return Modelo;
     }
 
-    public void setModelo(string modelo) {
+    public void setModelo(String modelo) {
         Modelo = modelo;
     }
 

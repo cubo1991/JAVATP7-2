@@ -2,6 +2,7 @@ package Ejercicios;
 
 public class Main {
     public static void main(String[] args) {
-       Hash.Hash();
+       //Hash.Hash();
+       CostoComputadora.main("");
     }
 }
